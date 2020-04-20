@@ -10,7 +10,7 @@ Creating main function for debug
 
 # Task 7.2: Obtain a subset of the movie industry to do some research  
 
-We created a new scrapy project call scraper and spider is modified to extract the information for movies and actors participating in movies but we do not know why we always get the empty imdb file. Even though we have already tried every methods which we can search on the internet, we cannot solve it. Finally, we put the code which we think it's correct in the github.
+We created a new scrapy project call scraper and spider is modified to extract the information for movies and actors participating in movies but we do not know why we always get the empty imdb file. Even though we have already tried every methods which we can search on the internet, we cannot solve it. However, we have already checked lots of times about our code but both of us think there are no problems in the code. So finally, we put the code which we think it's correct in the github for Task 7.2.
 
 
 # Task 7.3: Study the obtained data using the Elastic Stack  
